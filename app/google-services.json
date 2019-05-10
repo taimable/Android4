@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974064756559",
+    "firebase_url": "https://paccyuserauth.firebaseio.com",
+    "project_id": "paccyuserauth",
+    "storage_bucket": "paccyuserauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974064756559:android:4e2e82a484000727",
+        "android_client_info": {
+          "package_name": "com.qivu.paccyuserauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974064756559-s9lnlmvfb53sarpjnjlf0ol580rn417m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qivu.paccyuserauth",
+            "certificate_hash": "f79ac784b785283ef2e6009a6ff8de0fb4df4cba"
+          }
+        },
+        {
+          "client_id": "974064756559-e7j9l1jav330k066h6k0sgvup5ec4m2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9EiDC1UMdjstuUaGdeaVDea4kou_re8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974064756559-e7j9l1jav330k066h6k0sgvup5ec4m2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
